@@ -8,6 +8,8 @@ Version: 1.7
 Author: Nat
 GitHub: github.com/thegitmate
 License: GNU GPLv3
+Created: 7 Feb 2026
+Last updated: 7 Feb 2026
 '''
 
 import os
