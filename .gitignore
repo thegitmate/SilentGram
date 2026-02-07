@@ -1,0 +1,23 @@
+# --- SilentGram Ignore List ---
+
+# Telegram Session Files (Contains your login tokens)
+silentgram_session*
+
+# Configuration Files (Contains API keys and target info)
+api_config.json
+keys.json
+
+# PGP Keys (Private and Public keys)
+*.asc
+
+# Backups folder
+backups/
+
+# GnuPG Temporary Directories
+/tmp/sg_gpg_final/
+sg_gpg_final/
+gpg_home/
+
+# Python cache
+__pycache__/
+*.py[cod]
