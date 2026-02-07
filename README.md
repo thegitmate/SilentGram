@@ -11,7 +11,7 @@
 
 **A Python/GnuPG terminal wrapper for secure, local PGP-encrypted Telegram communication.**
 
-SilentGram is a lightweight terminal-based Telegram client written in Python that brings true local PGP encryption to standard chats. While Telegram's native "Secret Chats" are restricted to mobile devices, SilentGram allows you to secure any conversation using standard Telegram APIs.
+SilentGram is an open-source lightweight terminal-based Telegram client written in Python that brings true local PGP encryption to standard chats. While Telegram's native "Secret Chats" are restricted to mobile devices, SilentGram allows you to secure any conversation using standard Telegram APIs.
 
 **The Key Advantage**: Because encryption happens locally before the message is sent, the conversation remains completely unreadable within the official Telegram app or web interface. Anyone, including Telegram itself or someone with access to your account on another device, will see only a useless block of PGP-encrypted text. The messages can only be decrypted and read by someone using SilentGram (or a compatible GPG tool) with the correct private key.
 
