@@ -13,7 +13,7 @@ keys.json
 # Backups folder
 backups/
 
-# GnuPG Temporary Directories
+# GnuPG Directories
 /tmp/sg_gpg_final/
 sg_gpg_final/
 gpg_home/
